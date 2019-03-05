@@ -12,6 +12,6 @@ class Factorial {
            
             factorial *= i;
         }
-        System.out.printf("\n %d", factorial);
+        System.out.printf("%d", factorial);
     }
 }
